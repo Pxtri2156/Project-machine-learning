@@ -13,7 +13,7 @@ Các yêu cầu khi train và run mô hình:
 + ......
 ## Dữ liệu 
 2 Nguồn chính là: 
-* Downnload tại kaggle :
+* Downnload tại kaggle [tại đây](https://www.kaggle.com/mbkinaci/fruit-images-for-object-detection)
 * Tự thu thập : 
 ## How to bulid model 
 ## How to train and run model 
