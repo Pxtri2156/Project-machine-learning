@@ -1,7 +1,7 @@
 # Project-machine-learning
 Đây là đồ án cuối kì môn Machine learning tại UIT
 
-## Đồ án làm về nhận diện trái cây 
+## Đồ án làm về phân loại  trái cây 
 Mô tả: Project này đi xây dựng mô hình dự đoán trái cây:
 + Input: Hình ảnh chứa một loại trái cây ( táo, cam, chuối, khế, xoài, quýt,.....)
 + Output: Đầu ra là dự đoán trái cây trong hình 
